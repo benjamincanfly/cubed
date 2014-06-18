@@ -24,7 +24,7 @@
 
         <!-- Add your site or application content here -->
 		<div id="content">
-		        <iframe width="1280" height="720" src="//www.youtube.com/embed/3Se1AETh224?list=PLlp-gxEi1t6Gof5wkceTsR8D2zNEGEhCG" frameborder="0" allowfullscreen></iframe>
+		        <iframe width="1280" height="720" src="//www.youtube.com/embed/k0uBgMIdTD0" frameborder="0" allowfullscreen></iframe>
 				<div id="text">
 					<p><b>CUBED</b> airs every Wednesday starting June 25th, 2014 at <a href="http://www.cubedseries.com">CubedSeries.com</a> and at <a href="http://www.youtube.com/benjaminapple">YouTube.com/BenjaminApple</a>.</p>
 					<p>Written and directed by Benjamin Apple. Featuring: <a href="http://twitter.com/benjaminapple">Benjamin Apple</a>, <a href="http://twitter.com/dblackattack">Dan Black</a>, <a href="http://twitter.com/robmichaelhugel">Rob Michael Hugel,</a> <a href="http://twitter.com/DianimalK">Diana Kolsky</a>, <a href="http://twitter.com/timmartinwhy">Tim Martin</a>, <a href="http://twitter.com/vaov">Veronica Osorio</a>, and <a href="http://twitter.com/gavinspeiller">Gavin Speiller</a>. Director of Photography: <a href="http://adamsacks.com/">Adam Sacks</a>. Sound Mixer: <a href="https://pro-labs.imdb.com/name/nm3956849">Thomas Zaccheo</a>. Production Assistant: <a href="http://www.beachethan.com/">Ethan Beach</a>.</p>
